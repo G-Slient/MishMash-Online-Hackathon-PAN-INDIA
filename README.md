@@ -26,7 +26,7 @@ Dumb_Terminals - EQ Forecast - Deep Tech/Machine Learning
 7. **Repository Link(s):**  
 https://github.com/G-Slient/MishMash-Online-Hackathon-PAN-INDIA.git
 
-8. **Presentation Link:**  https://docs.google.com/presentation/d/19eBeUvMJt5WoS5uPXh8bR5shlSwXQAQAhuFVgw8ce_E/edit?usp=sharing
+8. **Presentation Link:**  https://docs.google.com/presentation/d/1rqTu922RLXNbTivpdRjWCFsGxpV0fYUX2t2d1qvzhzY/edit?usp=sharing
 
 9. **Deep Tech - Problem Statement - 3:** 
 - We have provided both the models.
