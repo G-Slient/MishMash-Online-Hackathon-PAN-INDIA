@@ -35,12 +35,28 @@ https://github.com/G-Slient/MishMash-Online-Hackathon-PAN-INDIA.git
 
 
 ## 🔥 Your Pitch
-_Kindly write a pitch for your project. Please do not use more than 500 words_
-
+1. We have experimented with **almost all the models** and picked the **best model i.e XG Boost**.
+2. Forecasting was applied on **both the datasets.**
+3. We have created a **baseline of all the models.**
+4. In our approach, we have used the **aggregated train data for building models**, which gave better results than the non-agrregated data.
+5. **Bayesian Approach** was also used for forecast the data for both the datasets.
 
 
 ## 🔦 Any other specific thing you want to highlight?
-_(Optional)_
+
+**ML Approach**
+
+Dataset | Train | Valid | Test
+--- | --- | --- | ---
+*First* | 6.71 | 20.16 | 35.69
+*Second* | 21.14 | 22.67 | 19.76
+
+**Bayesian Approach Results**
+
+Dataset | Train | Valid | Test
+--- | --- | --- | ---
+*First* | 29.09 | 29.42 | 153.9
+*Second* | 7.970 | 88.45 | 49.97
 
 
 ## ✅ Checklist
