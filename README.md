@@ -29,9 +29,7 @@ https://github.com/G-Slient/MishMash-Online-Hackathon-PAN-INDIA.git
 8. **Presentation Link:**  https://docs.google.com/presentation/d/19eBeUvMJt5WoS5uPXh8bR5shlSwXQAQAhuFVgw8ce_E/edit?usp=sharing
 
 9. **Deep Tech - Problem Statement - 3:** 
-- We have used XG Boost Model for both the datasets.
-1. Forecast for 6 Periods.
-2. Dataset with missing values. 
+- We have provided both the models.
 
 
 ## 🔥 Your Pitch
